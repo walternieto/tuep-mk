@@ -1,4 +1,5 @@
 site_name: TUEP - Base de Conocimiento
+site_url: https://walternieto.github.io/tuep/
 
 theme:
   name: material
@@ -37,9 +38,6 @@ nav:
 plugins:
   - search
   - awesome-pages
-  - redirects:
-      redirect_maps:
-        '404.html': '404.md'
 
 extra:
   404: /404/
