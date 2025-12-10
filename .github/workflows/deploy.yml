@@ -23,9 +23,11 @@ jobs:
           
       - name: Upgrade pip
         run: pip install --upgrade pip
-          
+
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-awesome-pages-plugi
         
       - name: Build and Deploy
         run: mkdocs gh-deploy --force
