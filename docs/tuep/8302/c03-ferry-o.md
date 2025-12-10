@@ -1,0 +1,59 @@
+# Gilles Ferry (1993)
+
+**Acerca del concepto de formación**
+
+Quisiera proponerles ahora una reflexión sobre **la noción misma de formación.**
+
+Cuando utilizamos la palabra “formación”, no todos le damos el mismo sentido. Para muchos, la formación consiste en dispositivos. Por ejemplo se dice: “acaso la formación docente debe hacerse en institutos, en la universidad”… “¿para la formación docente va a haber una formación inicial, una formación de posgrado, o una formación permanente? Cuando se habla de formación permanente se hace referencia a un dispositivo.
+
+Esta es **la primera acepción** de la palabra “formación”. En lo que a mí respecta, voy a decir que **cuando se habla de dispositivo se habla de ciertas condiciones de la formación que son los soportes de la formación.** Pero esto no es la formación.
+
+**Segunda acepción:** se dice que una formación consiste en la implementación de programas y contenidos de aprendizaje. Por ejemplo se dice que en ingeniería los alumnos reciben una importante formación. Escuchen bien esta frase: “reciben una formación “. Lo que remite a una imagen de algo que se consume, que se recibe del afuera, del exterior, y que se digiere más o menos bien.
+
+Y bien, un programa de aprendizaje, el currículo, que hace que haya cierta cantidad de etapas fijadas de manera racional, es también algo que es indispensable para la formación, **forma parte de los soportes y condiciones de la formación, pero no es la formación.**
+
+Entonces **¿qué es la formación?** Es algo que tiene relación con la forma. Una forma para actuar, para reflexionar y perfeccionar esta forma. No sé si se puede decir así en español, pero formarse es “ponerse en forma”, como el deportista que se pone en forma. La formación es entonces completamente diferente de la enseñanza y del aprendizaje. O sea que la enseñanza y el aprendizaje pueden entrar en la formación, pueden ser soportes de la formación, pero la formación, su dinámica, este desarrollo personal que es la formación consiste en encontrar formas para cumplir con ciertas tareas para ejercer un oficio, una profesión, un trabajo, por ejemplo.
+
+​Cuando se habla de formación se habla de formación profesional, de ponerse en condiciones para ejercer prácticas profesionales. Esto presupone, obviamente, muchas cosas: conocimientos, habilidades, cierta representación del trabajo a realizar, de la profesión que va a ejercerse, la concepción del rol, la imagen del rol que uno va a desempeñar, etcétera. Esta dinámica de formación, esta dinámica de la búsqueda de la mejor forma es un desarrollo de la persona que va a estar orientado según los objetivos que uno busca y de acuerdo con su posición.
+
+Retorno a una definición biológica de la formación. Cuando se dice que “un adolescente hizo su formación”, se quiere decir que ya tiene las características sexuales que son las de un adulto, que encontró sus formas. Es importante ver la formación de esta manera: como la **dinámica de un desarrollo personal.**
+
+Si esto se ve así, se debe renunciar a ciertas maneras de hablar que son frecuentes. Una formación no se recibe. Nadie puede formar a otro. No se puede hablar de un formador y de un formado. Hablar de un formador y de un formado es afirmar que hay un polo activo, el formador, y un polo pasivo, aquél que es formado. Y la mayoría del tiempo éste es el vocablo que se utiliza, creo que es lo mismo aquí que del otro lado del Atlántico. Nadie forma a otro. El individuo **se forma,** es él quien se desarrolla, diría, de forma en forma. Entonces lo que quiero decir es que el sujeto se forma solo y por sus propios medios.
+
+Hay un autor francés que se llama Kaës, que ha demostrado muy bien que las fantasías existentes con respecto a la formación se sitúan entre dos extremos. Uno dado por la fantasía de, la del escultor que crea a un otro a su imagen, lo modela, le da su forma, le da forma a una materia que en ese momento es pasiva, dócil. Un escultor, un modelador que encuentra su placer cuando terminó, realizó lo que tenía en su imaginación y que, como dios, creó un ser a su semejanza.
+
+Esta fantasía probablemente exista en todo formador... en todos nosotros. Nadie escapa de esto. Sin embargo cuando empezamos a criticar esta manera de representarse el acto de formación, solemos pasarnos al otro extremo. Nos decimos: “los individuos se forman por sus propios medios, a través de sus propios recursos”. Los tratamos entonces como otro personaje mítico: el fénix, el ave que se consume y renace de las cenizas.
+
+Ninguna de éstas dos fantasías corresponde a la dinámica formativa. Por un lado, **uno se forma a sí mismo, pero uno se forma solo por mediación.** Las mediaciones son variadas, diversas. Los formadores son mediadores humanos, lo son también las lecturas, las circunstancias, los accidentes de la vida, la relación con los otros… Todas estas son mediaciones que posibilitan la formación, que orientan el desarrollo, la dinámica del desarrollo en un sentido positivo.
+
+Situadas las cosas así y admitiendo, entonces, que **los dispositivos, los contenidos de aprendizaje, el currículum no son la formación en sí sino medios para la formación, ​**podemos preguntarnos cuáles son las condiciones fundamentales para que esta dinámica de desarrollo orientada hacia la adquisición de algunas formas se produzca. Es decir, cuáles son las condiciones requeridas para que la formación tenga lugar.
+
+Veo tres condiciones para realizar este trabajo sobre sí mismo: condiciones de lugar, de tiempo y de relación con la realidad.
+
+Trabajar sobre sí solo puede hacerse en los lugares previstos a tal propósito. Si uno está haciendo un trabajo profesional, uno trabaja para otros; el profesor que da clase trabaja para los alumnos. No se forma. Y me van a decir ustedes, seguramente: si porque desarrolla su experiencia. Y yo les respondo: pero esta experiencia no va a ser formadora para él, sólo lo será si en un momento dado, y en un tiempo dado, trabaja sobre si mismo. Pensar, tener una reflexión sobre lo que se ha hecho, buscar otras maneras para hacer…, eso quiere decir el trabajo sobre si mismo. Pero no se hacen las dos cosas al mismo tiempo. Es por eso que es falso pensar en formarse haciendo. La experiencia de un trabajo profesional no puede ser formadora para aquel que la lleva a cabo, salvo si encuentra los medios de volver, de rever lo hecho, de hacer un balance reflexivo. **Reflexionar es al mismo tiempo reflejar y tratar de comprender, y en ese momento sí hay formación.**
+
+Entonces sólo hay formación cuando uno puede tener un tiempo y un espacio para este trabajo sobre sí mismo. Es lo que han hecho todas las instituciones escolares, universitarias, de formación, etc., empiezan poniendo a los alumnos en un lugar que tiene por límite las paredes, definen un tiempo para esta formación… Tiempo yu lugar para la formación, tiempo y lugar para el trabajo sobre sí mismo, que no puyede confundirse con el trabajo profesional que es un trabajo para otros.
+
+El tercer aspecto de la formación es un cierto modo de relación con la realidad. Uno se desprende de la realidad para representársela. Representar quiere decir presentar otra vez la realidad, porque uno tuvo que ver directamente con esta realidad. Pero en un espacio y tiempo de la formación se retira de ella y la realidad queda figurada por representaciones.
+
+**Cuando se está en un lugar o en una acción de formación se trabaja sobre las****r** **epresentaciones.** No se trabaja sobre la realidad. Por ejemplo, cómo hacer en la clase para presentarse, para exponerle el problema a los alumnos, para lograr su interés, etcétera. Uno va a trabajar, a razonar sobre esta representación de la clase, pero la clase no está allí. Representar quiere decir trabajar con imágenes, con símbolos, con una realidad mental, pero no con la realidad, yo diría, real. Observen que la misma palabra, representación, caracteriza también la acción dramática teatral. Alli las escenas están representadas y los actores que dan esta representación no ponen al espectador en contacto con realidades sino con representaciones de ficción.
+
+Hay un autor inglés, Winnicott, que desarrolló la idea de espacio transicional que caracteriza el juego de los niños. Cuando los niños juegan al doctor, a la enfermera, etc.,​no son ni doctores ni enfermeras, pero encuentran la manera y los recursos de figurar esta realidad en sus espacios de juego y convierten así el juego en una manera de acceder a ella. Podríamos decir que han hecho una dialéctica entre retirarse de la realidad para representársela, jugarla, actuarla, y para poder volver a ella y captarla. El proceso de formación es exactamente esto. Es anticipar sobre situaciones reales, y es, a favor de estas representaciones, encontrar actitudes, gestos convenientes, adecuados para impregnarse de y en esta realidad. Winnicott dijo algo muy interesante sobre la manera en que nos preparamos para los roles sociales y profesionales. Preparación que es una parte importante de la formación.
+
+Cuando uno se decide a desempeñar una profesión, a ejercer una función específica, fracasaría si fuera puesto de manera abrupta frente a esta realidad. La idea es la de un espacio transicional, fuera de tiempo y lugar, en el cual uno representa y se representa un rol que va a tener en la profesión. Ese es el espacio y tiempo de la formación.
+
+Esto es muy obvio en la formación inicial. Pero también se ve muy claramente en la formación anterior a la entrada a un empleo y cuando se trata de la formación continua. Sabemos bien que las acciones de formación continua se efectúan en tiempos y lugares retirados de la realidad profesional. Hay que representarse esta realidad para actuarla… Creo que desde la experiencia que tenemos todos y cada uno, podemos pensar en este momento en que nos preparamos para un rol, donde lo que tratamos es de apropiarnos de él antes de estar confrontados con esta realidad.
+
+En relación con esto es importante pensar sobre los dispositivos de alternancia. Hoy se encuentra la formación de alternancia en todas las acciones de formación profesional, tanto en la Universidad como en el centro de formación docente. En el centro de formación o en el terreno o en el aula o en una residencia.
+
+La palabra “alternancia” hay que comprenderla en dos sentidos: en formación inicial y en la formación continua.
+
+Durante la formación inicial se está en un centro de formación, no se está en el campo profesional. Cuando se hace residencia – durante un tiempo que generalmente es más corto que el de permanencia en el centro de formaciónuno ve o se enfrenta con la realidad profesional y luego se vuelve al centro de formación.
+
+En formación continua es lo contrario. Se está en ejercicio profesional y en un momento dado se hace un encuentro o un curso de perfeccionamiento. Es decir se abandona la actividad profesional para volver a este espacio intermediario, transicional, que es el tiempo y el lugar de la formación. Lo que ocurre generalmente es que se concibe la alternancia simplemente como un dispositivo, con la idea de que basta estar a veces el el centro de la escena, tanto en la realidad profesional como en el centro, para que la alternancia produzca buenos efectos. Si hay una relación dinámica, viva entre los dos lugares, si podría darse.
+
+El hecho de que los alumnos docentes hagan residencia en clases de establecimientos escolares no tiene valor formativo salvo si, en el centro, se retoma la experiencia para describirla, analizarla, tomar la problemática de formación en la que estuvo en contacto en terreno.
+
+​Ir a la práctica como un turista no tiene valor formativo. Sobre el terreno se deben utilizar instrumentos de análisis que se hayan aprendido a usar en el centro.
+
+Destaco que hay una tendencia predominante en este momento de valorización de la formación sobre el terreno. Esto toma el sentido de una profesionalización de la función docente.

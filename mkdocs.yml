@@ -1,0 +1,39 @@
+site_name: TUEP - Base de Conocimiento
+
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+markdown_extensions:
+  - pymdownx.emoji
+
+nav:
+  - Bienvenida: index.md
+  - La Tecnicatura: carrera.md
+  - Materias: 
+      - La Enseñanza...:
+          - Introducción: tuep/8302/index.md
+          - Masschelein: tuep/8302/c02masschelein-r.md
+          - Meirieu: tuep/8302/c02meirieu-ro.md 
+          - Alliaud: tuep/8302/c03-alliaud-r.md
+          - Feldman: tuep/8302/c03-feldman-r.md
+          - Ferry: tuep/8302/c03-ferry-r.md
+      - Gestión...: 
+          - Introducción: tuep/8309/index.md
+          - Clase01: tuep/8309/clase-01.md
+          - Clase02: tuep/8309/clase-02.md
+      - Diseño...: 
+          - Presentación: tuep/8306/index.md
+          - Tema01: tuep/8306/tema-01.md
+          - Tema02: tuep/8306/tema-02.md
+      - Contextos...: tuep/8301/index.md
+
+
+  - Reflexión: reflexion.md
+  - Contacto: contacto.md
+
+plugins:
+  - search
+  - awesome-pages
+
