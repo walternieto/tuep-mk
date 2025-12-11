@@ -4,7 +4,7 @@ hide:
 ---
 # Trabajar en la escuela hoy y los vínculos que apuntalan la posición de los docentes. Sandra Nicastro
 
-:film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :open_book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
+:film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
 
 Dra Sandra Nicastro. 16º congreso de educación del centro del país. Desafíos de la educación en tiempos enredados. Julio de 2023. Villa María, Córdoba
 
