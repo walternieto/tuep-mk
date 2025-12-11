@@ -2,7 +2,7 @@
 
 **Reflexiones a partir de una experiencia de formación docente.**  
 _Autores: Daniel Daza, Marian Lettieri y Fernando Peirone._
-:headphones: [audio](https://drive.google.com/file/d/1GDrQJNBtx2ko8lPdecLup28QsYkLugMy/view?usp=drive_link) :book: [resumen](c13-situada-r) :blue_book: [original](c13-situada-o.md) :pencil: [actividad](c13-situada-f.md) 
+:headphones: [audio](https://drive.google.com/file/d/1GDrQJNBtx2ko8lPdecLup28QsYkLugMy/view?usp=drive_link) :book: [resumen](c13-situada-r.md) :blue_book: [original](c13-situada-o.md) :pencil: [actividad](c13-situada-f.md) 
 
 Desafíos y tensiones en la Formación Profesional. Reflexiones desde la enseñanza. Transformaciones tecnológicas en el sector productivo y su impacto en el aula taller y los saberes en la FP. Participación en Padlet: [padlet](https://padlet.com/jazminbelossi/desaf-os-y-tensiones-en-la-formaci-n-profesional-reflexiones-kz4nq0usmyt1e9w0) 
 ### Pedagogía Informacional Situada
