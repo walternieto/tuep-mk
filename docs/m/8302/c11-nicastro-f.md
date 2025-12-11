@@ -4,7 +4,7 @@ hide:
 ---
 # Trabajar en la escuela hoy y los vínculos que apuntalan la posición de los docentes. Sandra Nicastro
 
-:film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
+:headphones: [audio](https://drive.google.com/file/d/1BQTZ-LIStA0hS7GAQWcBeTKyOC8X5EpE/view?usp=drive_link) :film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
 ## Foro: Sandra Nicastro (Clase 11)
 
 Las cuestiones que me hicieron sentido sobre la charla de Sandra Nicastro, es todo el desarrollo de lo que implica enseñar como acto situado, y la puesta en valor de lo que significan esas cuestiones inesperadas, inéditas, únicas, de cada acto educativo. Lo describe muy bien en la forma en que muchas veces los docentes reclamamos mayor previsibilidad, mayor orden, con en una actitud inconsciente de búsqueda de salir del caos y encontrar equilibrio, aunque también todos esos desafíos únicos, singulares, al final de cuentas es lo que da testimonio de la docencia como trabajo humano y artesanal. 

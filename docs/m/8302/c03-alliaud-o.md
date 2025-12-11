@@ -1,10 +1,10 @@
 Clase 3.
 
-# Recorte de "el campo de la práctica de formación docente", de Andrea Alliaud.
-
-​Presentación
-
-**Cuaderno 1**
+# El campo de la práctica de formación docente
+Andrea Alliaud (Recorte). Clase 3.
+:book: [resumen](c03-alliaud-r.md) :headphones: [audio](https://drive.google.com/file/d/1m1prASZmCXgvkME_NNS4a-V6KqJc8ACH/view?usp=sharing) :pencil: [actividades](c03-alliaud-r.md#actividades)
+## Presentación
+### **Cuaderno 1**
 
 Este cuaderno es producto de una serie de Proyectos UBACyT, con sede en el IICE, destinados al estudio del “saber de la experiencia docente”, que la Dra. Andrea Alliaud viene dirigiendo sostenidamente desde el año 2004 hasta la fecha.
 

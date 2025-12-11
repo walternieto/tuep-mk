@@ -2,10 +2,9 @@
 hide:
   - toc
 ---
-# El campo de la práctica
+# El campo de la práctica de formación docente
 Andrea Alliaud (Recorte). Clase 3.
-
-:headphones: [versión en audio](https://drive.google.com/file/d/1m1prASZmCXgvkME_NNS4a-V6KqJc8ACH/view?usp=sharing) :blue_book: [texto original de la autora](c03-alliaud-o.md) :pencil: [actividades](#actividades)
+:blue_book: [texto original](c03-alliaud-o.md) :headphones: [audio](https://drive.google.com/file/d/1m1prASZmCXgvkME_NNS4a-V6KqJc8ACH/view?usp=sharing) :pencil: [actividades](#actividades)
 ### 1. **Presentación del cuaderno y marco del proyecto**
 
 Esta primera parte del texto cumple la función de **introducción** y contextualización del cuaderno. Aquí Alliaud explica **de dónde surge este trabajo** y **qué pretende lograr con él**. Podemos desglosarlo en estos aspectos:
@@ -236,7 +235,8 @@ El texto invita a repensar cómo se forman los futuros docentes, qué rol cumple
 
 En definitiva, este cuaderno no solo describe un problema, sino que **propone un horizonte formativo posible y deseable**, donde la práctica ya no es un momento posterior o inferior, sino **el corazón mismo del proceso de formar docentes**.
 
-
+---
+#actividades <a id="actividades"></a>
 ## Actividades de la clase
 
 ### Conceptos de Alliaud que puedo vincular con el constructivismo:

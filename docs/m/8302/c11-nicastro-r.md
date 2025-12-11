@@ -4,7 +4,7 @@ hide:
 ---
 # Trabajar en la escuela hoy y los vínculos que apuntalan la posición de los docentes. Sandra Nicastro
 
-:film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
+:headphones: [audio](https://drive.google.com/file/d/1BQTZ-LIStA0hS7GAQWcBeTKyOC8X5EpE/view?usp=drive_link) :film_projector: [video](https://www.youtube.com/watch?v=LeRaBVdoMZk) :blue_book: [transcripción](c11-nicastro-o.md) :book: [resumen](c11-nicastro-r.md) :pencil: [actividades](c11-nicastro-f.md) 
 
 ![nicastro-mapa](c11-nicastro.png)
 ## Resumen
