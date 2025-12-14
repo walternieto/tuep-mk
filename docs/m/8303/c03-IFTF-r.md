@@ -5,7 +5,7 @@ hide:
 # Informe Work Skills 2020 del Institute For The Future (IFTF)
 Ana Catalano. Clase 3. 
 
-:loud:sound: [audio](https://drive.google.com/file/d/1Ml34Z4BicM69Kjk6awTricYuFj4kPIrS/view?usp=sharing) :blue_book: [original](c03-catalano-o.md) :book: [resumen](c03-catalano-r.md) :construction_worker: [IFTF](c03-IFTF-r.md) :pencil: [actividad](c03-catalano-a.md)  
+:loud_sound: [audio](https://drive.google.com/file/d/1Ml34Z4BicM69Kjk6awTricYuFj4kPIrS/view?usp=sharing) :blue_book: [original](c03-catalano-o.md) :book: [resumen](c03-catalano-r.md) :construction_worker: [IFTF](c03-IFTF-r.md) :pencil: [actividad](c03-catalano-a.md)  
 
 **Informe Work Skills 2020**
 
